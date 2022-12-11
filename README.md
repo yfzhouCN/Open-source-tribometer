@@ -1,2 +1,3 @@
 # Open-source-tribometer
-Code for Open-source tribometer
+# Software Code for Open-source tribometer
+# initial version
