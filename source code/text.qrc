@@ -1,0 +1,46 @@
+<RCC>
+  <qresource prefix="1">
+    <file>42bd22ee578e16f2b8fa536a038610d.jpg</file>
+    <file>试验机.jpg</file>
+    <file>uart.ico</file>
+    <file>logo.jpg</file>
+    <file>logo1.png</file>
+    <file>logo3.png</file>
+    <file>研究.ico</file>
+    <file>传感器接线图english.png</file>
+    <file>传感器接线图1.png</file>
+    <file>电机接口定义ENGLISH.png</file>
+    <file>电机接线图1.png</file>
+    <file>表格——english.png</file>
+    <file>开始 (1).png</file>
+    <file>关闭.png</file>
+    <file>图片1.1.png</file>
+    <file>右旋转.png</file>
+    <file>左旋转 (1).png</file>
+    <file>保存.png</file>
+    <file>logo3.png</file>
+    <file>1.jpeg</file>
+    <file>开始.png</file>
+    <file>传感器接线图1.png</file>
+    <file>发送 (2).png</file>
+    <file>发送 (2).png</file>
+    <file>清楚缓存 (1).png</file>
+    <file>发送 (1).png</file>
+    <file>发送.png</file>
+    <file>清楚缓存.png</file>
+    <file>保存.png</file>
+    <file>急停.png</file>
+    <file>logo.jpg</file>
+    <file>电机接线图.png</file>
+    <file>传感器接线图.png</file>
+    <file>电机接口定义.png</file>
+    <file>表格1.png</file>
+    <file>表格.png</file>
+    <file>图片2.png</file>
+    <file>图片1.png</file>
+    <file>1.jpg</file>
+    <file>2.jpg</file>
+    <file>3.jpg</file>
+    <file>4.jpg</file>
+  </qresource>
+</RCC>
